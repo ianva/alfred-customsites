@@ -88,6 +88,18 @@
 	</dict>
 	<dict>
 		<key>keyword</key>
+		<string>yd</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>有道</string>
+		<key>url</key>
+        <string>http://dict.youdao.com/fsearch?q={query}</string>
+		<key>utf8</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>keyword</key>
 		<string>www</string>
 		<key>spaces</key>
 		<false/>
