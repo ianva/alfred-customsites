@@ -4,13 +4,37 @@
 <array>
 	<dict>
 		<key>keyword</key>
+		<string>gr</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Search ruby code at Github</string>
+		<key>url</key>
+		<string>https://github.com/search?type=Repositories&amp;language=Ruby&amp;q={query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+   	<dict>
+		<key>keyword</key>
 		<string>gh</string>
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
-		<string>Search at Github</string>
+		<string>Search code at Github</string>
 		<key>url</key>
-		<string>https://github.com/search?type=Repositories&amp;language=Ruby&amp;q={query}</string>
+		<string>https://github.com/search?type=Repositories&amp;q={query}&amp;l=</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+    <dict>
+		<key>keyword</key>
+		<string>gj</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Search javascript code at Github</string>
+		<key>url</key>
+		<string>https://github.com/search?type=Repositories&amp;language=JavaScript&amp;q={query}</string>
 		<key>utf8</key>
 		<false/>
 	</dict>
@@ -94,7 +118,7 @@
 		<key>text</key>
 		<string>有道</string>
 		<key>url</key>
-        <string>http://dict.youdao.com/fsearch?q={query}</string>
+        <string>http://dict.youdao.com/search?le=eng&amp;q={query}</string>
 		<key>utf8</key>
 		<true/>
 	</dict>
