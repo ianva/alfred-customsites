@@ -10,7 +10,7 @@
 		<key>text</key>
 		<string>Search ruby code at Github</string>
 		<key>url</key>
-		<string>https://github.com/search?type=Repositories&amp;language=Ruby&amp;q={query}</string>
+		<string>https://github.com/search?type=Repositories&amp;l=Ruby&amp;q={query}</string>
 		<key>utf8</key>
 		<false/>
 	</dict>
@@ -34,7 +34,7 @@
 		<key>text</key>
 		<string>Search javascript code at Github</string>
 		<key>url</key>
-		<string>https://github.com/search?type=Repositories&amp;language=JavaScript&amp;q={query}</string>
+		<string>https://github.com/search?type=Repositories&amp;l=JavaScript&amp;q={query}</string>
 		<key>utf8</key>
 		<false/>
 	</dict>
