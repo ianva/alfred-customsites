@@ -8,31 +8,31 @@
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
-		<string>Search ruby code at Github</string>
+		<string>Search for ruby repositories at Github</string>
 		<key>url</key>
 		<string>https://github.com/search?type=Repositories&amp;l=Ruby&amp;q={query}</string>
 		<key>utf8</key>
 		<false/>
 	</dict>
-   	<dict>
+	<dict>
 		<key>keyword</key>
 		<string>gh</string>
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
-		<string>Search code at Github</string>
+		<string>Search for repositories at Github</string>
 		<key>url</key>
 		<string>https://github.com/search?type=Repositories&amp;q={query}&amp;l=</string>
 		<key>utf8</key>
 		<false/>
 	</dict>
-    <dict>
+	<dict>
 		<key>keyword</key>
 		<string>gj</string>
 		<key>spaces</key>
 		<false/>
 		<key>text</key>
-		<string>Search javascript code at Github</string>
+		<string>Search for javascript repositories at Github</string>
 		<key>url</key>
 		<string>https://github.com/search?type=Repositories&amp;l=JavaScript&amp;q={query}</string>
 		<key>utf8</key>
@@ -118,7 +118,7 @@
 		<key>text</key>
 		<string>有道</string>
 		<key>url</key>
-        <string>http://dict.youdao.com/search?le=eng&amp;q={query}</string>
+		<string>http://dict.youdao.com/search?le=eng&amp;q={query}</string>
 		<key>utf8</key>
 		<true/>
 	</dict>
