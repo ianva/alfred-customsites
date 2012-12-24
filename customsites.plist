@@ -28,6 +28,18 @@
 	</dict>
 	<dict>
 		<key>keyword</key>
+		<string>gs</string>
+		<key>spaces</key>
+		<false/>
+		<key>text</key>
+		<string>Search stars at Github</string>
+		<key>url</key>
+		<string>https://github.com/stars?q={query}</string>
+		<key>utf8</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>keyword</key>
 		<string>gj</string>
 		<key>spaces</key>
 		<false/>
